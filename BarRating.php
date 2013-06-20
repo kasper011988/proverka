@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: readln text
-Description: readln text
+Plugin Name: BarRating
+Description: BarRating
 Version: 1.0
 Author: Karmachev Aleksandr (Kasper)
 Author URI: http://
